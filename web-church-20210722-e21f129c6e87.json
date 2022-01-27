@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web-church-20210722",
+  "private_key_id": "e21f129c6e87cc41b630ccc5dcee3e666f17da10",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCU70Q7dGDdZfn9\niuXeNwjv7v5Zb3k/Mo46TOaB4i8Pru1UIXO1Ckt8Li4RAch8vQaU6ihXzjcUZi7U\nPQn85rctXsZ4cOv9+PMcKJ3NPwPH6zP36UMaYMZ9bqzRFXCnS5UcIwzX8rlN6+T2\nLp4qfayMajr3tJPRsmymj7Lyqb9wgY9sXOJouuOikUF8QH2Tel/hWzds/R3dghLH\nX+EG/W/N//4NdEkiFl1gw0S/E2ofHEcGJyfENITqO0HbpyH5ovgwha5N5d2DL93W\n17aPA/p9shae0w+mpAWaw32vECUXsewMi58nSybMKztxkh5MCvXpNQdkKImkaInP\nz2tHUpyRAgMBAAECggEAAdamR/mazIDawid5yPFy+ctAdogqvf34xX13hvjszcvC\nADzdecmjvuevB+S2vdtzflkZoGPaSDUutM4AFpAeiL/XwVrbfuoYzisuL39so4Yi\nwRevDV9Oc/PuzDHwjxAeyhcgrHXBldWooOVYbHvaqm0RR0eCX59NOg0iD17LDy91\napGU+HgGcjvwsnJEe5fXZ/4qzbXU75g90lFXclIXYzCJST/qVbXtS71wRE6PbRZE\nBJqMYylupbHXYBDwCsWfXQ8fxyH9luXQi5o5qyrPZJwAusQMp0h8k2t9AQk9CgM3\n8o9IGVtQLuhqHG9LYAzJZSAHTJmMR+OVe7kZU+AtVQKBgQDO+jQk+mYDv/PtRDbM\n+EXjzBLero19SXxe2Em6vayhPdVCI4t2APWyRwOCQ8l5htg00r5togIBlMn/2W/D\nD5g7KuwoWrcsPrQkEgFcxFmy2QV/YCm94mmhUKTh/xWbKQ0vhr8ob9iU6ijZ4VNl\nJGAT0zoTGnZdNLJAxTgILAQyCwKBgQC4Nbg7rKvsJPHXGk2/NORs8krxToga59Kf\n0j0lcaZWiyDGG4bcG6pRVkXtmRbC0pag9OQkO5HSZ1MshR+afzD8GB2HxGwrct9D\nmtLIvOgf9Ju2VD/P670gSNVgWOGEKCdwVK2Pg2vA9mOFr3G68dJMHwXlN2QM+HT7\nGZijCRwJUwKBgHlo5SuHwk2SzJgyOl8Th5OvQqZjB9YlRBIyl1U2K8xNhAoO5aCr\nwXP5GgLQlp91zN93e4K91KVuzOsKdfea7zZN4EdvpyEKCwtZkHkFKISzrvjfxLyA\n0mtw7bcvtVHVy8lEJl+m9AmuLZZZCV078CvQ7LEGBcZ4wdMinNKWV0OvAoGAQVS0\nCV38/1w+9SXcCwMsPENWNuy+MqSjO5FppD0BXFIthnU+yBN7vSsW0+RmgSQEzgLs\nYrlJx1Bj3Dc+dSHE8rNuzbbpEiPEcQqY1R7CSIsNKoYIt6oIwklye6AqIx/GlP1D\nLNHURnRb6Y7GjCG1js+13IxfjIYVnvR+ANx7OAcCgYBU+V7lD44wfQGu26+VjxVE\nNC9RtPsxXquF60HBiZeZ0++QkPYCnoHeEcmdWo1QWLyBXzyKb+dUJbfoI8+fAlch\nCcBddgpr7X9ATtk0i2ozIWtfFqsGpr0143CptgRvRSTgy+mFxWIXwvNoT8CjG65S\n0BFb/iDC8JlT2jhcwdxDjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "strapi-demo-app@web-church-20210722.iam.gserviceaccount.com",
+  "client_id": "103171298347535443121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/strapi-demo-app%40web-church-20210722.iam.gserviceaccount.com"
+}
