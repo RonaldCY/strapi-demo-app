@@ -8,10 +8,7 @@ WORKDIR /usr/app
 # A wildcard is used to ensure copying both package.json AND package-lock.json (when available).
 # Copying this first prevents re-running npm install on every code change.
 COPY . .
-RUN apk --no-cache --virtual build-dependencies add \
-  python \
-  make \
-  g++
+
 # Install production dependencies.
 # If you add a package-lock.json, speed your build by switching to 'npm ci'.
 RUN npm ci --only=production
