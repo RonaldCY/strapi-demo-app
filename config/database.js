@@ -14,10 +14,10 @@ function getProductionConnections(env) {
   return {
     client: 'postgres',
     connection: {
-      host: `/cloudsql/${env("INSTANCE_CONNECTION_NAME")}`,
-      database: env("DATABASE_NAME"),
-      user: env("DATABASE_USERNAME"),
-      password: env("DATABASE_PASSWORD"),
+      host: `/cloudsql/strapi-example-349303:asia-east2:strapidemo`,
+      database: 'strapidemo-production',
+      user: 'postgres',
+      password: 'postgres',
     },
     pool: {
       min: 0,
@@ -30,5 +30,5 @@ function getProductionConnections(env) {
 }
 
 module.exports = ({ env }) => ({
-  connection: env('NODE_ENV') === 'development' ? getDevConnections(env) : getProductionConnections(env)
+  connection: getProductionConnections(env)
 });
