@@ -1,8 +1,8 @@
 module.exports = ({ env }) => ({
   auth: {
-    secret: 'WYXX1J+63wn+P5UzkZT+rA==',
+    secret: env('ADMIN_JWT_SECRET', 'WYXX1J+63wn+P5UzkZT+rA=='),
   },
   apiToken: {
-    salt: '3pkkB1LOlAuqW8oc9eSkpw==',
+    secret: env('API_TOKEN_SALT', '3pkkB1LOlAuqW8oc9eSkpw=='),
   },
 });
